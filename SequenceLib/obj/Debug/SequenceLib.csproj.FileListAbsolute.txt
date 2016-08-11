@@ -1,0 +1,5 @@
+c:\users\geoffrey.kuhn\documents\visual studio 2013\Projects\SequenceSolver\SequenceLib\bin\Debug\SequenceLib.dll
+c:\users\geoffrey.kuhn\documents\visual studio 2013\Projects\SequenceSolver\SequenceLib\bin\Debug\SequenceLib.pdb
+c:\users\geoffrey.kuhn\documents\visual studio 2013\Projects\SequenceSolver\SequenceLib\obj\Debug\SequenceLib.csprojResolveAssemblyReference.cache
+c:\users\geoffrey.kuhn\documents\visual studio 2013\Projects\SequenceSolver\SequenceLib\obj\Debug\SequenceLib.dll
+c:\users\geoffrey.kuhn\documents\visual studio 2013\Projects\SequenceSolver\SequenceLib\obj\Debug\SequenceLib.pdb
